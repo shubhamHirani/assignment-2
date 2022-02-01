@@ -1,0 +1,40 @@
+2022-01-31T11:11:33.987Z - [ERROR  ] - Column count doesn't match value count at row 1
+2022-01-31T11:13:08.988Z - [ERROR  ] - Column count doesn't match value count at row 1
+2022-01-31T11:17:42.854Z - [ERROR  ] - Column count doesn't match value count at row 1
+2022-01-31T11:24:02.422Z - [ERROR  ] - Column count doesn't match value count at row 1
+2022-02-01T04:48:58.710Z - [INFO   ] - file is added to public folder
+2022-02-01T04:48:58.830Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T04:50:02.673Z - [INFO   ] - file is added to public folder
+2022-02-01T04:50:02.844Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T04:51:30.468Z - [INFO   ] - file is added to public folder
+2022-02-01T04:51:30.585Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T04:54:48.542Z - [INFO   ] - file is added to public folder
+2022-02-01T04:54:48.821Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T04:55:44.085Z - [INFO   ] - file is added to public folder
+2022-02-01T04:55:44.198Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T04:56:36.684Z - [INFO   ] - file is added to public folder
+2022-02-01T04:59:25.086Z - [INFO   ] - file is added to public folder
+2022-02-01T05:00:18.562Z - [INFO   ] - file is added to public folder
+2022-02-01T05:00:18.669Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T05:07:57.100Z - [INFO   ] - file is added to public folder
+2022-02-01T05:07:59.069Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T05:12:00.509Z - [INFO   ] - image is deleted succesfully
+2022-02-01T05:18:25.021Z - [INFO   ] - image is deleted succesfully
+2022-02-01T05:18:58.968Z - [INFO   ] - image is deleted succesfully
+2022-02-01T05:18:58.978Z - [ERROR  ] - ENOENT: no such file or directory, unlink ' '
+2022-02-01T05:21:27.386Z - [INFO   ] - image is deleted succesfully
+2022-02-01T05:24:17.476Z - [INFO   ] - file is added to public folder
+2022-02-01T05:24:17.613Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T05:25:02.871Z - [INFO   ] - image is deleted succesfully
+2022-02-01T05:25:02.886Z - [INFO   ] - successfully unlink image data
+2022-02-01T05:25:48.432Z - [INFO   ] - file is added to public folder
+2022-02-01T05:25:48.796Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T05:26:50.049Z - [INFO   ] - file is added to public folder
+2022-02-01T05:26:50.220Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T05:28:23.129Z - [INFO   ] - file is added to public folder
+2022-02-01T05:28:23.238Z - [INFO   ] - data inserted succesfully.....
+2022-02-01T05:28:33.201Z - [INFO   ] - dta is fetched using variable shubham
+2022-02-01T05:29:57.950Z - [INFO   ] - data is fetched using variable shubham
+2022-02-01T05:31:10.779Z - [INFO   ] - data is fetched using variable shubham
+2022-02-01T05:31:39.109Z - [INFO   ] - data is fetched using variable shubham
+2022-02-01T05:31:56.152Z - [INFO   ] - data is fetched using variable computer
